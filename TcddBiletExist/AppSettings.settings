@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TcddBiletExist" GeneratedClassName="AppSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ClientMailAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">oug505@gmail.com</Value>
+    </Setting>
+    <Setting Name="ClientMailPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BasicAuth" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ZGl0cmF2b3llYnNwOmRpdHJhMzQhdm8u</Value>
+    </Setting>
+    <Setting Name="AuthUsername" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ditravoyebsp</Value>
+    </Setting>
+    <Setting Name="AuthPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ditra34!vo.</Value>
+    </Setting>
+    <Setting Name="BaseUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api-yebsp.tcddtasimacilik.gov.tr/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
